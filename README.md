@@ -64,5 +64,114 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Upsampler is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://upsampler.com
+Upsampler provides high‑resolution AI image and video creation tools, offering generation, editing, and upscaling capabilities through a public REST API. Users can access a variety of AI models for creative and faithful image processing, as well as video upscaling, with commercial licensing included in all plans. The platform supports multiple file formats and integrates into applications via its API, catering to developers, agencies, and enterprises seeking AI‑enhanced media workflows.
+
+**Areas:** AI image generation · AI video generation · image upscaling · video upscaling · API · creators · pay‑as‑you‑go
+
+## Upsampler on APIs.io
+
+Everything profiled for Upsampler is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/upsampler-com/](https://apis.io/providers/upsampler-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (5)
+
+- [Upsampler Files API](https://apis.io/apis/upsampler-com/upsampler-com-files-api/) — The Files API from Upsampler — 1 operation(s) for files.
+- [Upsampler Image upscale API](https://apis.io/apis/upsampler-com/upsampler-com-image-upscale-api/) — The Image upscale API from Upsampler — 10 operation(s) for image upscale.
+- [Upsampler Jobs API](https://apis.io/apis/upsampler-com/upsampler-com-jobs-api/) — The Jobs API from Upsampler — 3 operation(s) for jobs.
+- [Upsampler Utilities API](https://apis.io/apis/upsampler-com/upsampler-com-utilities-api/) — The Utilities API from Upsampler — 3 operation(s) for utilities.
+- [Upsampler Video upscale API](https://apis.io/apis/upsampler-com/upsampler-com-video-upscale-api/) — The Video upscale API from Upsampler — 7 operation(s) for video upscale.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Upsampler Agentic Access](https://apis.io/agentic-access/upsampler-com/upsampler-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Upsampler API Rules](https://apis.io/rules/upsampler-com/upsampler-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Upsampler Authentication](https://apis.io/security/upsampler-com/upsampler-com-authentication/)
+- [Upsampler Domain Security](https://apis.io/security/upsampler-com/upsampler-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Upsampler Plans Pricing](https://apis.io/plans/upsampler-com/upsampler-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://upsampler.com)
+- [API reference](https://upsampler.com/api)
+- [Pricing](https://upsampler.com/pricing)
+- [Support](https://upsampler.com/contact-us)
+- [Terms of service](https://upsampler.com/terms-of-service)
+- [Privacy policy](https://upsampler.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 46.2** — developing · rubric 0.28.0 · scored 2026-11-22
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.8 |
+| Contract quality | 42.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 30.2 |
+| Access clarity | 59.1 |
+
+**Agent readiness 49.2** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/upsampler-com/](https://apis.io/providers/upsampler-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Upsampler: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/upsampler-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
